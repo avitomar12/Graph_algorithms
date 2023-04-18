@@ -16,16 +16,21 @@ To use this library in your own C++ project, you can include the header files fr
 To build the library from source, follow these steps:
 
 1. Clone the repository:
-
+git clone https://github.com/your_username/graph_algorithms.git
 
 2. Change into the `graph_algorithms` directory:
 
+cd graph_algorithms
+
 
 3. Create a build directory and change into it:
-
+mkdir build
+cd build
 
 4. Generate the build files using CMake:
 
+
+cmake ..
 
 
 
